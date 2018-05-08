@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Burst filtering class and methods
+Nova filtering class and methods
 """
 
 import re

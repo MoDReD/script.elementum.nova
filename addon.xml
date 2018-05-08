@@ -4,7 +4,7 @@
         <import addon="xbmc.python" version="2.19.0"/>
         <import addon="plugin.video.elementum" optional="true"/>
     </requires>
-    <extension point="xbmc.python.script" library="burst.py">
+    <extension point="xbmc.python.script" library="nova.py">
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
